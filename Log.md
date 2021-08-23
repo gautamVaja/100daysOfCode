@@ -27,3 +27,7 @@ Project : Social-Media-App using ReactJs
 Learning : Today I learnt async calling to API.
 
 Implementation : I used that to make a call for add friend button. I also fetched friends list and showed on the home page.
+
+DAY 4
+
+Today for the change I solved some dsa problems on Hackerblocks.
