@@ -31,3 +31,9 @@ Implementation : I used that to make a call for add friend button. I also fetche
 DAY 4
 
 Today for the change I solved some dsa problems on Hackerblocks.
+
+DAY 5
+
+Project : Social-Media-App using ReactJs
+
+Implementation : Today I implemented "create a post" and "comment a post" functionality in my project
