@@ -37,3 +37,11 @@ DAY 5
 Project : Social-Media-App using ReactJs
 
 Implementation : Today I implemented "create a post" and "comment a post" functionality in my project
+
+DAY 6
+
+Project : Social-Media-App using ReactJs
+
+Learning : Conditions inside reducers, changing class using JS.
+
+Implementation : Today I implemented "Like a post and comment", "Search user" and started implementing chat function.
