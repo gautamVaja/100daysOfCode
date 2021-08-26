@@ -45,3 +45,11 @@ Project : Social-Media-App using ReactJs
 Learning : Conditions inside reducers, changing class using JS.
 
 Implementation : Today I implemented "Like a post and comment", "Search user" and started implementing chat function.
+
+DAY 7
+
+Project: Social media app using react
+
+Learning: socket-io 
+
+Implementation: I tried to build server and script for chat functionality in the app.
