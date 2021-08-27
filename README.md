@@ -56,3 +56,12 @@ Project: Social media app using react
 Learning: socket-io 
 
 Implementation: I tried to build server and script for chat functionality in the app.
+
+DAY 8
+
+Project: Social media app using react
+
+Learning: React hooks just beginning
+
+Implementation: I tried that chat functionality, I worked on UI part using CSS, and started learning Hooks.
+
