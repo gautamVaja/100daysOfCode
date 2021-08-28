@@ -65,3 +65,8 @@ Learning: React hooks just beginning
 
 Implementation: I tried that chat functionality, I worked on UI part using CSS, and started learning Hooks.
 
+Day 9
+
+Learning : learned about react hook
+
+Implementation : Today I implemented comment list and like list function, and also implemented delete comment functionality.
