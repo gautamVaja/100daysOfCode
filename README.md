@@ -70,3 +70,11 @@ Day 9
 Learning : learned about react hook
 
 Implementation : Today I implemented comment list and like list function, and also implemented delete comment functionality.
+
+Day 11
+
+Started learning backend development.
+
+Learning: Today I learn basic nodejs, and started learning express.
+
+Implentation: Made Simple servers using express and node.
