@@ -78,3 +78,40 @@ Started learning backend development.
 Learning: Today I learn basic nodejs, and started learning express.
 
 Implentation: Made Simple servers using express and node.
+
+Day 12
+
+Started learning backend development.
+
+Learning: More in express started with view engine.
+
+Implentation: Simple codes
+
+Day 13
+
+Started learning backend development.
+
+Project : Contact-list
+
+Learning: More in express and view engine ejs.
+
+Implentation: Made view page and add contact functionality.
+
+Day 14
+
+Learning backend development.
+
+Project : Contact-list
+
+Learning: To pass query and params.
+
+Implentation: Used that for delete contact button.
+
+Day 15
+
+Learning backend development.
+
+Learning: Use params to interact with front-end.
+
+Implentation: Implemented delete contact button.
+and made 2 small project one of showing random names and another of implementing json.parse  and json.stringify
